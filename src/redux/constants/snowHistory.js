@@ -1,6 +1,5 @@
 // Each of these years is actually a season that spans two years (i.e. Nov 2012 - March 2013). The years listed here are the years in which the season STARTS. 
-
-export const snowHistory = {
+export const SNOW_HISTORY = {
     arapahoeBasin: {
         2012: {
             total: 284,
